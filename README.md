@@ -1,11 +1,7 @@
-## HOLA Y BIENVENIDOS !!! 
+##¡Bienvenido/a! 
+###Software Developer front-end.
 
-Soy Luciano Moyano, soy desarrollador web  multidisciplinario, entusiasta investigador y proactivo en
-la resolución de problemas.
+Mi objetivo es crecer en la industria de la programación, con proyectos que me desafíen y me impulsen a seguir aprendiendo.
+Trabajando con tecnologías como: JavaScript, React, y React-Redux, Node, Webpack, Babel, Github, React-native, Firebase, Jest, Jasmine, entre otros.
 
-
-
-var Lucho = {
-TECNOLOGIAS : ["Javascript","MongoDB","Express","React","NodeJs","React-Redux","Hooks","HTML/CSS","WebPack","Docker","Socket.io","PostgreSQL"],
-};
-
+Argentina, Morón, Buenos Aires 📍
